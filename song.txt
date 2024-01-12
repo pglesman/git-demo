@@ -12,3 +12,6 @@ and also new one
 
 some new content
 for the new branch
+
+we have also some new content
+for the next commit
